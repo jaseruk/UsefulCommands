@@ -1,0 +1,2 @@
+Get-MPPreference | Select-Object -ExpandProperty**AttackSurfaceReductionRules_Ids
+Get-MPPreference | Select-Object -ExpandProperty**AttackSurfaceReductionRules_Actions
